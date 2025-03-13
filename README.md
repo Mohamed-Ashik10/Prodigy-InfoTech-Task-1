@@ -11,6 +11,8 @@ Jupyter notebook
 Pandas
 Numpy
 Matplotlip & Seaborn for visualization
+
+
 Exploratory Data Analysis (EDA)
 During the EDA process, I performed the following steps:
 
